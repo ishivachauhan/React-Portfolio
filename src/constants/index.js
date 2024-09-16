@@ -31,8 +31,8 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "TailWind Css"],
-    link: ["https://your-book-store-website.com"],
-    githublink: ["  "],
+    link: ["https://react-portfolio-flax-five.vercel.app/"],
+    githublink: [" https://github.com/ishivachauhan/React-Portfolio "],
   },
   {
     title: "TIC-TAC-TOE Game",
