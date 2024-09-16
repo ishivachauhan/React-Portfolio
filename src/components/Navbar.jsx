@@ -16,7 +16,7 @@ const Navbar = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Downloadd Resume
+          Download Resume
         </a>
 
         <a
